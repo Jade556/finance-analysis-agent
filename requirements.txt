@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain_openai
+fastapi
+uvicorn
+pandas
+python-dotenv
+tabulate

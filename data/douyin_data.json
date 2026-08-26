@@ -1,0 +1,5132 @@
+[
+  {
+    "date": "2025-10-20",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1428857.86,
+    "order_count": 23814,
+    "cost_structure": {
+      "ad_traffic_fee": 428657.36,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 7144,
+      "refund_amount": 428657.36,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 827.17,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.72,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.36,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1054.74,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.47,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.74,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 430464.29,
+    "order_count": 7174,
+    "cost_structure": {
+      "ad_traffic_fee": 129139.29,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2152,
+      "refund_amount": 129139.29,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 954.05,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 95.4,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.7,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 805.16,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 80.52,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 40.26,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 517991.73,
+    "order_count": 8633,
+    "cost_structure": {
+      "ad_traffic_fee": 155397.52,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2589,
+      "refund_amount": 155397.52,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1000.02,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 100.0,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 50.0,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 811.08,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 81.11,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 40.55,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-23",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 515538.66,
+    "order_count": 8592,
+    "cost_structure": {
+      "ad_traffic_fee": 154661.6,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2577,
+      "refund_amount": 154661.6,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-23",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1072.56,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 107.26,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 53.63,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-23",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 910.91,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.09,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.55,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-24",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 473604.8,
+    "order_count": 7893,
+    "cost_structure": {
+      "ad_traffic_fee": 142081.44,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2368,
+      "refund_amount": 142081.44,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-24",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 953.63,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 95.36,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.68,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-24",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1059.96,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 106.0,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 53.0,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-25",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 465191.96,
+    "order_count": 7753,
+    "cost_structure": {
+      "ad_traffic_fee": 139557.59,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2325,
+      "refund_amount": 139557.59,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-25",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 841.3,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 84.13,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 42.06,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-25",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1135.56,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 113.56,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.78,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-26",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 449223.94,
+    "order_count": 7487,
+    "cost_structure": {
+      "ad_traffic_fee": 134767.18,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2246,
+      "refund_amount": 134767.18,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-26",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1090.03,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 109.0,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.5,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-26",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1096.8,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 109.68,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.84,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1225228.1,
+    "order_count": 20420,
+    "cost_structure": {
+      "ad_traffic_fee": 367568.43,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 6126,
+      "refund_amount": 367568.43,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1046.17,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 104.62,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.31,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 998.31,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 99.83,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.92,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-28",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 413317.3,
+    "order_count": 6888,
+    "cost_structure": {
+      "ad_traffic_fee": 123995.19,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2066,
+      "refund_amount": 123995.19,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-28",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 873.36,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 87.34,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 43.67,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-28",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1133.63,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 113.36,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.68,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-29",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 444031.58,
+    "order_count": 7400,
+    "cost_structure": {
+      "ad_traffic_fee": 133209.47,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2220,
+      "refund_amount": 133209.47,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-29",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1050.15,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.01,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.51,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-29",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 821.86,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.19,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.09,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-30",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 412246.38,
+    "order_count": 6870,
+    "cost_structure": {
+      "ad_traffic_fee": 123673.91,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2061,
+      "refund_amount": 123673.91,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-30",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1009.3,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 100.93,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 50.47,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-30",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1086.64,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 108.66,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.33,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-31",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 427919.86,
+    "order_count": 7131,
+    "cost_structure": {
+      "ad_traffic_fee": 128375.96,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2139,
+      "refund_amount": 128375.96,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-10-31",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1050.05,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.01,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.5,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-10-31",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1006.45,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 100.64,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 50.32,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-01",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 472309.33,
+    "order_count": 7871,
+    "cost_structure": {
+      "ad_traffic_fee": 141692.8,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2361,
+      "refund_amount": 141692.8,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-01",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 950.34,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 95.03,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.52,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-01",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1006.86,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 100.69,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 50.34,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-02",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 459886.66,
+    "order_count": 7664,
+    "cost_structure": {
+      "ad_traffic_fee": 137966.0,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2299,
+      "refund_amount": 137966.0,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-02",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 941.58,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 94.16,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.08,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-02",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1068.19,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 106.82,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 53.41,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-03",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1708990.25,
+    "order_count": 28483,
+    "cost_structure": {
+      "ad_traffic_fee": 512697.08,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 8544,
+      "refund_amount": 512697.08,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-03",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1126.36,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 112.64,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.32,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-03",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 966.92,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 96.69,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 48.35,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-04",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 470356.31,
+    "order_count": 7839,
+    "cost_structure": {
+      "ad_traffic_fee": 141106.89,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2351,
+      "refund_amount": 141106.89,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-04",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1156.31,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 115.63,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 57.82,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-04",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1014.04,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 101.4,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 50.7,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-05",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 428465.23,
+    "order_count": 7141,
+    "cost_structure": {
+      "ad_traffic_fee": 128539.57,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2142,
+      "refund_amount": 128539.57,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-05",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1104.76,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 110.48,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.24,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-05",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1041.08,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 104.11,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.05,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-06",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 495660.97,
+    "order_count": 8261,
+    "cost_structure": {
+      "ad_traffic_fee": 148698.29,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2478,
+      "refund_amount": 148698.29,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-06",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1180.85,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 118.08,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.04,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-06",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 856.14,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 85.61,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 42.81,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-07",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 451470.14,
+    "order_count": 7524,
+    "cost_structure": {
+      "ad_traffic_fee": 135441.04,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2257,
+      "refund_amount": 135441.04,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-07",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 861.49,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 86.15,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 43.07,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-07",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 958.25,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 95.83,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.91,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-08",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 456297.21,
+    "order_count": 7604,
+    "cost_structure": {
+      "ad_traffic_fee": 136889.16,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2281,
+      "refund_amount": 136889.16,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-08",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1185.5,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 118.55,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.27,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-08",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1089.51,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 108.95,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.48,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-09",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 532073.13,
+    "order_count": 8867,
+    "cost_structure": {
+      "ad_traffic_fee": 159621.94,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2660,
+      "refund_amount": 159621.94,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-09",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1191.56,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 119.16,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.58,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-09",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 907.5,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 90.75,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.38,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-10",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1303238.23,
+    "order_count": 21720,
+    "cost_structure": {
+      "ad_traffic_fee": 390971.47,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 6516,
+      "refund_amount": 390971.47,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-10",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1152.0,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 115.2,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 57.6,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-10",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 990.78,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 99.08,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.54,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 487182.94,
+    "order_count": 8119,
+    "cost_structure": {
+      "ad_traffic_fee": 146154.88,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2435,
+      "refund_amount": 146154.88,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1079.61,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 107.96,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 53.98,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 884.27,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 88.43,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 44.21,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 585020.54,
+    "order_count": 9750,
+    "cost_structure": {
+      "ad_traffic_fee": 175506.16,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2925,
+      "refund_amount": 175506.16,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1171.39,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 117.14,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 58.57,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-12",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1084.66,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 108.47,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.23,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 404430.87,
+    "order_count": 6740,
+    "cost_structure": {
+      "ad_traffic_fee": 121329.26,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2022,
+      "refund_amount": 121329.26,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1174.83,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 117.48,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 58.74,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1159.51,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 115.95,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 57.98,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 517928.8,
+    "order_count": 8632,
+    "cost_structure": {
+      "ad_traffic_fee": 155378.64,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2589,
+      "refund_amount": 155378.64,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 958.22,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 95.82,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.91,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 969.66,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 96.97,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 48.48,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 477400.63,
+    "order_count": 7956,
+    "cost_structure": {
+      "ad_traffic_fee": 143220.19,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2387,
+      "refund_amount": 143220.19,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1086.24,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 108.62,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.31,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1172.79,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 117.28,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 58.64,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-16",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 599928.45,
+    "order_count": 9998,
+    "cost_structure": {
+      "ad_traffic_fee": 179978.53,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2999,
+      "refund_amount": 179978.53,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-16",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1023.3,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 102.33,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 51.17,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-16",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 833.71,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 83.37,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.69,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-17",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1223683.04,
+    "order_count": 20394,
+    "cost_structure": {
+      "ad_traffic_fee": 367104.91,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 6118,
+      "refund_amount": 367104.91,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-17",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 861.93,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 86.19,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 43.1,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-17",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1111.74,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 111.17,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.59,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-18",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 585821.24,
+    "order_count": 9763,
+    "cost_structure": {
+      "ad_traffic_fee": 175746.37,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2929,
+      "refund_amount": 175746.37,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-18",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1057.93,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.79,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.9,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-18",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1056.76,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.68,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.84,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-19",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 412206.55,
+    "order_count": 6870,
+    "cost_structure": {
+      "ad_traffic_fee": 123661.97,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2061,
+      "refund_amount": 123661.97,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-19",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 891.71,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 89.17,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 44.59,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-19",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 827.19,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.72,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.36,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 509874.34,
+    "order_count": 8497,
+    "cost_structure": {
+      "ad_traffic_fee": 152962.3,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2549,
+      "refund_amount": 152962.3,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 884.32,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 88.43,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 44.22,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 919.17,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.92,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.96,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-21",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 474068.79,
+    "order_count": 7901,
+    "cost_structure": {
+      "ad_traffic_fee": 142220.64,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2370,
+      "refund_amount": 142220.64,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-21",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1095.86,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 109.59,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.79,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-21",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 889.96,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 89.0,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 44.5,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-22",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 439689.42,
+    "order_count": 7328,
+    "cost_structure": {
+      "ad_traffic_fee": 131906.83,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2198,
+      "refund_amount": 131906.83,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-22",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1055.84,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.58,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.79,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-22",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 819.93,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 81.99,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.0,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-23",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 504198.62,
+    "order_count": 8403,
+    "cost_structure": {
+      "ad_traffic_fee": 151259.59,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2520,
+      "refund_amount": 151259.59,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-23",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 958.56,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 95.86,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.93,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-23",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 915.94,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.59,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.8,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-24",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1612956.85,
+    "order_count": 26882,
+    "cost_structure": {
+      "ad_traffic_fee": 483887.06,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 8064,
+      "refund_amount": 483887.06,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-24",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1114.21,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 111.42,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.71,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-24",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1110.6,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 111.06,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.53,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-25",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 427660.18,
+    "order_count": 7127,
+    "cost_structure": {
+      "ad_traffic_fee": 128298.05,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2138,
+      "refund_amount": 128298.05,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-25",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1020.99,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 102.1,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 51.05,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-25",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1104.16,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 110.42,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.21,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-26",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 464717.34,
+    "order_count": 7745,
+    "cost_structure": {
+      "ad_traffic_fee": 139415.2,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2323,
+      "refund_amount": 139415.2,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-26",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 840.56,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 84.06,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 42.03,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-26",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1065.44,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 106.54,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 53.27,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-27",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 405855.71,
+    "order_count": 6764,
+    "cost_structure": {
+      "ad_traffic_fee": 121756.71,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2029,
+      "refund_amount": 121756.71,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-27",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 912.9,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.29,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.64,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-27",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1006.02,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 100.6,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 50.3,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-28",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 522286.16,
+    "order_count": 8704,
+    "cost_structure": {
+      "ad_traffic_fee": 156685.85,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2611,
+      "refund_amount": 156685.85,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-28",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1149.56,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 114.96,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 57.48,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-28",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 914.99,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.5,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.75,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-29",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 477132.46,
+    "order_count": 7952,
+    "cost_structure": {
+      "ad_traffic_fee": 143139.74,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2385,
+      "refund_amount": 143139.74,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-29",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1090.65,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 109.07,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.53,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-29",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1178.47,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 117.85,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 58.92,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-30",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 481850.43,
+    "order_count": 8030,
+    "cost_structure": {
+      "ad_traffic_fee": 144555.13,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2409,
+      "refund_amount": 144555.13,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-11-30",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 949.29,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 94.93,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.46,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-11-30",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 873.12,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 87.31,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 43.66,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-01",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1627493.67,
+    "order_count": 27124,
+    "cost_structure": {
+      "ad_traffic_fee": 488248.1,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 8137,
+      "refund_amount": 488248.1,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-01",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1104.81,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 110.48,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.24,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-01",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1030.39,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 103.04,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 51.52,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-02",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 496671.32,
+    "order_count": 8277,
+    "cost_structure": {
+      "ad_traffic_fee": 149001.4,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2483,
+      "refund_amount": 149001.4,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-02",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1040.99,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 104.1,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.05,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-02",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1149.67,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 114.97,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 57.48,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-03",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 570113.1,
+    "order_count": 9501,
+    "cost_structure": {
+      "ad_traffic_fee": 171033.93,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2850,
+      "refund_amount": 171033.93,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-03",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 996.66,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 99.67,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.83,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-03",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 910.94,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.09,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.55,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-04",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 445517.7,
+    "order_count": 7425,
+    "cost_structure": {
+      "ad_traffic_fee": 133655.31,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2227,
+      "refund_amount": 133655.31,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-04",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1053.67,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.37,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.68,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-04",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1197.58,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 119.76,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.88,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-05",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 579271.38,
+    "order_count": 9654,
+    "cost_structure": {
+      "ad_traffic_fee": 173781.41,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2896,
+      "refund_amount": 173781.41,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-05",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 822.08,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.21,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.1,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-05",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 982.12,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 98.21,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.11,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-06",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 527623.96,
+    "order_count": 8793,
+    "cost_structure": {
+      "ad_traffic_fee": 158287.19,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2638,
+      "refund_amount": 158287.19,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-06",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 994.12,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 99.41,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.71,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-06",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1189.84,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 118.98,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.49,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-07",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 494122.84,
+    "order_count": 8235,
+    "cost_structure": {
+      "ad_traffic_fee": 148236.85,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2470,
+      "refund_amount": 148236.85,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-07",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1047.88,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 104.79,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.39,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-07",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1179.27,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 117.93,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 58.96,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-08",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1201175.77,
+    "order_count": 20019,
+    "cost_structure": {
+      "ad_traffic_fee": 360352.73,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 6005,
+      "refund_amount": 360352.73,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-08",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 934.82,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 93.48,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.74,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-08",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1101.15,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 110.12,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.06,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-09",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 540187.39,
+    "order_count": 9003,
+    "cost_structure": {
+      "ad_traffic_fee": 162056.22,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2700,
+      "refund_amount": 162056.22,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-09",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1080.38,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 108.04,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.02,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-09",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 895.3,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 89.53,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 44.76,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-10",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 582819.38,
+    "order_count": 9713,
+    "cost_structure": {
+      "ad_traffic_fee": 174845.81,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2914,
+      "refund_amount": 174845.81,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-10",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1196.9,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 119.69,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.84,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-10",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1137.12,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 113.71,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.86,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-11",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 497501.35,
+    "order_count": 8291,
+    "cost_structure": {
+      "ad_traffic_fee": 149250.4,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2487,
+      "refund_amount": 149250.4,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-11",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 992.35,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 99.23,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.62,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-11",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1188.23,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 118.82,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.41,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-12",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 498739.81,
+    "order_count": 8312,
+    "cost_structure": {
+      "ad_traffic_fee": 149621.94,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2493,
+      "refund_amount": 149621.94,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-12",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1193.52,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 119.35,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.68,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-12",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 978.45,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 97.85,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 48.92,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-13",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 442638.31,
+    "order_count": 7377,
+    "cost_structure": {
+      "ad_traffic_fee": 132791.49,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2213,
+      "refund_amount": 132791.49,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-13",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 938.02,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 93.8,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.9,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-13",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 828.43,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.84,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.42,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-14",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 438177.16,
+    "order_count": 7302,
+    "cost_structure": {
+      "ad_traffic_fee": 131453.15,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2190,
+      "refund_amount": 131453.15,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-14",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 807.82,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 80.78,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 40.39,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-14",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 935.53,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 93.55,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.78,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-15",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1608255.83,
+    "order_count": 26804,
+    "cost_structure": {
+      "ad_traffic_fee": 482476.75,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 8041,
+      "refund_amount": 482476.75,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-15",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1045.96,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 104.6,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.3,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-15",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1182.55,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 118.26,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.13,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-16",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 568309.72,
+    "order_count": 9471,
+    "cost_structure": {
+      "ad_traffic_fee": 170492.92,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2841,
+      "refund_amount": 170492.92,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-16",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 811.69,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 81.17,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 40.58,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-16",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1042.24,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 104.22,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.11,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-17",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 580123.47,
+    "order_count": 9668,
+    "cost_structure": {
+      "ad_traffic_fee": 174037.04,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2900,
+      "refund_amount": 174037.04,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-17",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 800.53,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 80.05,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 40.03,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-17",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1059.92,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.99,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 53.0,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-18",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 436140.39,
+    "order_count": 7269,
+    "cost_structure": {
+      "ad_traffic_fee": 130842.12,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2180,
+      "refund_amount": 130842.12,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-18",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 917.33,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.73,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.87,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-18",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 893.59,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 89.36,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 44.68,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-19",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 462241.3,
+    "order_count": 7704,
+    "cost_structure": {
+      "ad_traffic_fee": 138672.39,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2311,
+      "refund_amount": 138672.39,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-19",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 843.59,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 84.36,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 42.18,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-19",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1026.79,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 102.68,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 51.34,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-20",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 521429.21,
+    "order_count": 8690,
+    "cost_structure": {
+      "ad_traffic_fee": 156428.76,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2607,
+      "refund_amount": 156428.76,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-20",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 838.82,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 83.88,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.94,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-20",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1113.93,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 111.39,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.7,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-21",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 443408.9,
+    "order_count": 7390,
+    "cost_structure": {
+      "ad_traffic_fee": 133022.67,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2217,
+      "refund_amount": 133022.67,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-21",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 920.1,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 92.01,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.01,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-21",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1059.33,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.93,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.97,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-22",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1276018.51,
+    "order_count": 21266,
+    "cost_structure": {
+      "ad_traffic_fee": 382805.55,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 6380,
+      "refund_amount": 382805.55,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-22",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 881.83,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 88.18,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 44.09,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-22",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 879.27,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 87.93,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 43.96,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-23",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 482362.26,
+    "order_count": 8039,
+    "cost_structure": {
+      "ad_traffic_fee": 144708.68,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2411,
+      "refund_amount": 144708.68,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-23",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 824.76,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.48,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.24,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-23",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 969.55,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 96.96,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 48.48,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-24",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 536083.58,
+    "order_count": 8934,
+    "cost_structure": {
+      "ad_traffic_fee": 160825.07,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2680,
+      "refund_amount": 160825.07,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-24",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 823.97,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.4,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.2,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-24",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1135.95,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 113.6,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.8,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-25",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 479289.42,
+    "order_count": 7988,
+    "cost_structure": {
+      "ad_traffic_fee": 143786.83,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2396,
+      "refund_amount": 143786.83,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-25",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 863.45,
+    "order_count": 21,
+    "cost_structure": {
+      "ad_traffic_fee": 86.35,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 43.17,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-25",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1081.85,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 108.19,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.09,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-26",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 433283.84,
+    "order_count": 7221,
+    "cost_structure": {
+      "ad_traffic_fee": 129985.15,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2166,
+      "refund_amount": 129985.15,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-26",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 982.61,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 98.26,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.13,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-26",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1082.05,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 108.21,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.1,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-27",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 570526.22,
+    "order_count": 9508,
+    "cost_structure": {
+      "ad_traffic_fee": 171157.87,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2852,
+      "refund_amount": 171157.87,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-27",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1082.06,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 108.21,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.1,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-27",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1046.54,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 104.65,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.33,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-28",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 461845.43,
+    "order_count": 7697,
+    "cost_structure": {
+      "ad_traffic_fee": 138553.63,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2309,
+      "refund_amount": 138553.63,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-28",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 953.26,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 95.33,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.66,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-28",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1054.21,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 105.42,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 52.71,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-29",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1705271.48,
+    "order_count": 28421,
+    "cost_structure": {
+      "ad_traffic_fee": 511581.44,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 8526,
+      "refund_amount": 511581.44,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-29",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 929.53,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 92.95,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.48,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-29",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 998.35,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 99.84,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.92,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-30",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 554072.15,
+    "order_count": 9234,
+    "cost_structure": {
+      "ad_traffic_fee": 166221.65,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2770,
+      "refund_amount": 166221.65,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-30",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1156.77,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 115.68,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 57.84,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-30",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 923.82,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 92.38,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.19,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-31",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 492144.99,
+    "order_count": 8202,
+    "cost_structure": {
+      "ad_traffic_fee": 147643.5,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2460,
+      "refund_amount": 147643.5,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2025-12-31",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 977.78,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 97.78,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 48.89,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2025-12-31",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1029.77,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 102.98,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 51.49,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-01",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 434138.11,
+    "order_count": 7235,
+    "cost_structure": {
+      "ad_traffic_fee": 130241.43,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2170,
+      "refund_amount": 130241.43,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-01",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 963.05,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 96.3,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 48.15,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-01",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1135.95,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 113.6,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.8,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-02",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 452935.79,
+    "order_count": 7548,
+    "cost_structure": {
+      "ad_traffic_fee": 135880.74,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2264,
+      "refund_amount": 135880.74,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-02",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 921.44,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 92.14,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.07,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-02",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 903.65,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 90.36,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.18,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-03",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 483631.23,
+    "order_count": 8060,
+    "cost_structure": {
+      "ad_traffic_fee": 145089.37,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2418,
+      "refund_amount": 145089.37,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-03",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1121.53,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 112.15,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.08,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-03",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1067.34,
+    "order_count": 26,
+    "cost_structure": {
+      "ad_traffic_fee": 106.73,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 53.37,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-04",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 583331.25,
+    "order_count": 9722,
+    "cost_structure": {
+      "ad_traffic_fee": 174999.37,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2916,
+      "refund_amount": 174999.37,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-04",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 929.7,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 92.97,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.48,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-04",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1137.56,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 113.76,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.88,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-05",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1478487.61,
+    "order_count": 24641,
+    "cost_structure": {
+      "ad_traffic_fee": 443546.28,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 7392,
+      "refund_amount": 443546.28,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-05",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 837.63,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 83.76,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.88,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-05",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 814.74,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 81.47,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 40.74,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-06",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 463830.91,
+    "order_count": 7730,
+    "cost_structure": {
+      "ad_traffic_fee": 139149.27,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2319,
+      "refund_amount": 139149.27,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-06",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1116.61,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 111.66,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 55.83,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-06",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 821.16,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.12,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.06,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-07",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 467797.02,
+    "order_count": 7796,
+    "cost_structure": {
+      "ad_traffic_fee": 140339.1,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2338,
+      "refund_amount": 140339.1,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-07",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 983.18,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 98.32,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.16,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-07",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 910.95,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.1,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.55,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-08",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 448715.45,
+    "order_count": 7478,
+    "cost_structure": {
+      "ad_traffic_fee": 134614.63,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2243,
+      "refund_amount": 134614.63,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-08",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 899.87,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 89.99,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 44.99,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-08",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 977.03,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 97.7,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 48.85,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-09",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 535981.93,
+    "order_count": 8933,
+    "cost_structure": {
+      "ad_traffic_fee": 160794.58,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2679,
+      "refund_amount": 160794.58,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-09",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1126.99,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 112.7,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 56.35,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-09",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 991.56,
+    "order_count": 24,
+    "cost_structure": {
+      "ad_traffic_fee": 99.16,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 49.58,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-10",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 532890.0,
+    "order_count": 8881,
+    "cost_structure": {
+      "ad_traffic_fee": 159867.0,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2664,
+      "refund_amount": 159867.0,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-10",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 803.5,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 80.35,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 40.17,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-10",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1031.59,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 103.16,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 51.58,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-11",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 417218.31,
+    "order_count": 6953,
+    "cost_structure": {
+      "ad_traffic_fee": 125165.49,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2086,
+      "refund_amount": 125165.49,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-11",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 957.1,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 95.71,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 47.85,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-11",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 919.47,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.95,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.97,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-12",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 1263185.75,
+    "order_count": 21053,
+    "cost_structure": {
+      "ad_traffic_fee": 378955.72,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 6315,
+      "refund_amount": 378955.72,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-12",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 824.75,
+    "order_count": 20,
+    "cost_structure": {
+      "ad_traffic_fee": 82.47,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 41.24,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-12",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1091.05,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 109.1,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.55,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-13",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 584014.16,
+    "order_count": 9733,
+    "cost_structure": {
+      "ad_traffic_fee": 175204.25,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2920,
+      "refund_amount": 175204.25,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-13",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1003.89,
+    "order_count": 25,
+    "cost_structure": {
+      "ad_traffic_fee": 100.39,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 50.19,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-13",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1092.41,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 109.24,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.62,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-14",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 516676.13,
+    "order_count": 8611,
+    "cost_structure": {
+      "ad_traffic_fee": 155002.84,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2583,
+      "refund_amount": 155002.84,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-14",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 914.22,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 91.42,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.71,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-14",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1093.73,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 109.37,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.69,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-15",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 407103.09,
+    "order_count": 6785,
+    "cost_structure": {
+      "ad_traffic_fee": 122130.93,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2035,
+      "refund_amount": 122130.93,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-15",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 926.75,
+    "order_count": 23,
+    "cost_structure": {
+      "ad_traffic_fee": 92.68,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 46.34,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-15",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1199.6,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 119.96,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.98,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-16",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 574774.91,
+    "order_count": 9579,
+    "cost_structure": {
+      "ad_traffic_fee": 172432.47,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2873,
+      "refund_amount": 172432.47,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-16",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1099.57,
+    "order_count": 27,
+    "cost_structure": {
+      "ad_traffic_fee": 109.96,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 54.98,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-16",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 906.96,
+    "order_count": 22,
+    "cost_structure": {
+      "ad_traffic_fee": 90.7,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 45.35,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-17",
+    "channel_id": "douyin_live_001",
+    "sku_id": "sku_cat_001",
+    "campaign_type": "Influencer Live Stream",
+    "influencer_name": "Cute Pet Qiang",
+    "gmv": 545501.66,
+    "order_count": 9091,
+    "cost_structure": {
+      "ad_traffic_fee": 163650.5,
+      "commission_rate": 0.2,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 2727,
+      "refund_amount": 163650.5,
+      "top_return_reason": "Damaged Packaging"
+    }
+  },
+  {
+    "date": "2026-01-17",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_cat_002",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1185.93,
+    "order_count": 29,
+    "cost_structure": {
+      "ad_traffic_fee": 118.59,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 59.3,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  },
+  {
+    "date": "2026-01-17",
+    "channel_id": "douyin_store",
+    "sku_id": "sku_toy_003",
+    "campaign_type": "Store Direct",
+    "influencer_name": "N/A",
+    "gmv": 1151.6,
+    "order_count": 28,
+    "cost_structure": {
+      "ad_traffic_fee": 115.16,
+      "commission_rate": 0.05,
+      "tech_service_fee": 0.05
+    },
+    "after_sales": {
+      "return_order_count": 1,
+      "refund_amount": 57.58,
+      "top_return_reason": "7 Days Return No Reason"
+    }
+  }
+]

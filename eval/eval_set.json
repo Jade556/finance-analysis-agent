@@ -1,0 +1,47 @@
+{
+  "description": "财务分析 Agent 评测集。must_call 列出该问题【可接受】的工具；match=any 表示命中其一即算对（一个问题常有多条合理工具路径）。",
+  "cases": [
+    {
+      "id": "rank_stock",
+      "question": "把所有商品按库存从高到低排序",
+      "must_call": ["query_erp_by_natural_language", "list_available_skus"],
+      "match": "any",
+      "note": "排序：走 Text2SQL 或先列出再排都算对"
+    },
+    {
+      "id": "low_stock",
+      "question": "库存低于 20000 的商品有哪些？",
+      "must_call": ["query_erp_by_natural_language", "list_available_skus"],
+      "match": "any",
+      "note": "条件过滤：Text2SQL 或列出再筛都算对"
+    },
+    {
+      "id": "douyin_summary",
+      "question": "昨天抖音渠道的 GMV 和退货率大概是多少？",
+      "must_call": ["get_douyin_campaign_data"],
+      "match": "all",
+      "note": "结构化渠道汇总，专用工具"
+    },
+    {
+      "id": "xhs_channel",
+      "question": "昨天小红书渠道卖了多少钱？",
+      "must_call": ["get_xiaohongshu_sales_data"],
+      "match": "all",
+      "note": "异构脏数据渠道，必须触发清洗工具"
+    },
+    {
+      "id": "profit_calc",
+      "question": "帮我核算一下昨天抖音渠道 sku_cat_001 的净利润，不要自己心算。",
+      "must_call": ["calculate_sku_net_profit"],
+      "match": "all",
+      "note": "利润必须走计算器工具去幻觉"
+    },
+    {
+      "id": "list_skus",
+      "question": "我们现在一共有哪几个 SKU？",
+      "must_call": ["list_available_skus", "query_erp_by_natural_language"],
+      "match": "any",
+      "note": "列 SKU：专用工具或 Text2SQL 都算对"
+    }
+  ]
+}

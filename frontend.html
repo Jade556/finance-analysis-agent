@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinMatrix - 财务数据智能中台</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: .5;
+            }
+        }
+
+        .animate-fade-in {
+            animation: fadeIn 0.3s ease-out forwards;
+        }
+
+        .animate-pulse {
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+
+        .active-nav {
+            background: linear-gradient(90deg, #eff6ff 0%, #fff 100%);
+            color: #2563eb;
+            border-left: 3px solid #2563eb;
+        }
+
+        .thinking-log {
+            font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Roboto Mono', monospace;
+            font-size: 11px;
+        }
+
+        ::-webkit-scrollbar {
+            width: 5px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+
+        .log-item {
+            border-left: 2px solid #334155;
+            padding-left: 8px;
+            margin-bottom: 8px;
+        }
+
+        .log-tool {
+            border-left-color: #f59e0b;
+        }
+
+        .log-result {
+            border-left-color: #22c55e;
+        }
+
+        /* Markdown styling for AI responses */
+        .ai-content h2,
+        .ai-content h3,
+        .ai-content h4 {
+            font-weight: 600;
+            margin-top: 1rem;
+            margin-bottom: 0.5rem;
+            color: #1e293b;
+        }
+
+        .ai-content h2 {
+            font-size: 1.1rem;
+        }
+
+        .ai-content h3 {
+            font-size: 1rem;
+        }
+
+        .ai-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 0.75rem 0;
+            font-size: 0.85rem;
+        }
+
+        .ai-content th,
+        .ai-content td {
+            border: 1px solid #e2e8f0;
+            padding: 0.5rem 0.75rem;
+            text-align: left;
+        }
+
+        .ai-content th {
+            background: #f8fafc;
+            font-weight: 600;
+            color: #475569;
+        }
+
+        .ai-content tr:nth-child(even) {
+            background: #f8fafc;
+        }
+
+        .ai-content strong,
+        .ai-content b {
+            color: #0f172a;
+        }
+
+        .ai-content ul,
+        .ai-content ol {
+            margin-left: 1.25rem;
+            margin-top: 0.5rem;
+        }
+
+        .ai-content li {
+            margin-bottom: 0.25rem;
+        }
+    </style>
+</head>
+
+<body class="flex h-screen overflow-hidden bg-slate-100 text-slate-800">
+
+    <!-- ========== Sidebar ========== -->
+    <aside class="w-56 bg-white border-r border-slate-200 flex flex-col shrink-0 shadow-sm z-20">
+        <div class="h-14 flex items-center px-5 border-b border-slate-100">
+            <div
+                class="w-7 h-7 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-sm mr-2.5 shadow">
+                F</div>
+            <span class="font-bold text-lg text-slate-800">FinMatrix</span>
+        </div>
+        <nav class="flex-1 py-4 px-2 space-y-1">
+            <button onclick="switchView('dashboard')" id="nav-dashboard"
+                class="w-full flex items-center px-3 py-2.5 text-sm font-medium rounded-md text-slate-600 hover:bg-slate-50 transition-colors active-nav">
+                <svg class="h-5 w-5 mr-2.5 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
+                </svg>
+                经营驾驶舱
+            </button>
+            <button onclick="switchView('copilot')" id="nav-copilot"
+                class="w-full flex items-center px-3 py-2.5 text-sm font-medium rounded-md text-slate-600 hover:bg-slate-50 transition-colors">
+                <svg class="h-5 w-5 mr-2.5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.868 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+                </svg>
+                智能归因
+            </button>
+            <button onclick="switchView('tickets')" id="nav-tickets"
+                class="w-full flex items-center px-3 py-2.5 text-sm font-medium rounded-md text-slate-600 hover:bg-slate-50 transition-colors">
+                <svg class="h-5 w-5 mr-2.5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
+                </svg>
+                任务工单
+                <span id="ticket-badge"
+                    class="hidden ml-auto bg-red-500 text-white text-xs px-1.5 py-0.5 rounded-full">1</span>
+            </button>
+        </nav>
+        <div class="p-3 border-t border-slate-100">
+            <div class="flex items-center px-2">
+                <div
+                    class="h-8 w-8 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center text-xs font-bold text-white">
+                    CFO</div>
+                <div class="ml-2.5">
+                    <p class="text-sm font-medium text-slate-700">CFO</p>
+                    <p class="text-xs text-slate-400">财务决策中心</p>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- ========== Main Content ========== -->
+    <main class="flex-1 overflow-y-auto bg-slate-50">
+
+        <!-- ====== VIEW: Dashboard ====== -->
+        <div id="view-dashboard" class="p-6 max-w-7xl mx-auto animate-fade-in">
+            <header class="mb-5 flex justify-between items-center">
+                <div>
+                    <h1 class="text-xl font-bold text-slate-800">经营驾驶舱</h1>
+                    <p class="text-slate-400 text-xs mt-0.5">数据切片: <span id="dashboard-date" class="font-mono"></span>
+                    </p>
+                </div>
+                <button onclick="runScan()" id="scan-btn"
+                    class="px-4 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:bg-blue-700 shadow-sm flex items-center">
+                    <svg class="w-4 h-4 mr-1.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                    一键巡检
+                </button>
+            </header>
+
+            <!-- Data Sources Status -->
+            <div
+                class="mb-5 p-3 bg-white rounded-lg border border-slate-100 flex items-center justify-between shadow-sm">
+                <div class="flex items-center space-x-5 text-xs">
+                    <span class="text-slate-400 font-medium">数据源:</span>
+                    <span class="flex items-center cursor-pointer hover:text-blue-600"
+                        onclick="previewData('douyin')">🎵 抖音 <span class="ml-1 text-green-500">●</span></span>
+                    <span class="flex items-center cursor-pointer hover:text-blue-600" onclick="previewData('tmall')">🐱
+                        天猫 <span class="ml-1 text-green-500">●</span></span>
+                    <span class="flex items-center cursor-pointer hover:text-blue-600" onclick="previewData('erp')">🏢
+                        ERP <span class="ml-1 text-blue-500">●</span></span>
+                </div>
+                <span class="text-xs text-slate-300">点击可预览</span>
+            </div>
+
+            <!-- Data Preview Modal -->
+            <div id="data-modal" class="hidden fixed inset-0 bg-black/40 z-50 flex items-center justify-center"
+                onclick="closeDataModal(event)">
+                <div class="bg-white w-full max-w-2xl max-h-[70vh] rounded-xl shadow-2xl overflow-hidden animate-fade-in"
+                    onclick="event.stopPropagation()">
+                    <div class="px-5 py-3 border-b border-slate-100 flex justify-between items-center bg-slate-50">
+                        <h3 class="font-bold text-slate-700 text-sm" id="modal-title">数据预览</h3>
+                        <button onclick="closeDataModal()"
+                            class="text-slate-400 hover:text-slate-600 text-lg">&times;</button>
+                    </div>
+                    <pre id="modal-content"
+                        class="p-5 text-xs text-slate-600 font-mono overflow-auto max-h-[55vh] bg-white"></pre>
+                </div>
+            </div>
+
+            <!-- KPI Cards -->
+            <div class="grid grid-cols-4 gap-4 mb-5">
+                <div class="p-4 bg-white rounded-xl shadow-sm border border-slate-100">
+                    <div class="text-xs text-slate-400 font-medium">昨日全域 GMV</div>
+                    <div class="mt-1.5 text-2xl font-bold text-slate-800">¥185.0<span
+                            class="text-sm text-slate-400 ml-0.5">万</span></div>
+                    <div class="mt-1 text-green-500 text-xs font-medium">↑ 12.5% 环比</div>
+                </div>
+                <div class="p-4 bg-white rounded-xl shadow-sm border border-red-100 bg-red-50/30">
+                    <div class="text-xs text-red-500 font-medium">昨日净利润 (预估)</div>
+                    <div class="mt-1.5 text-2xl font-bold text-red-600">-¥2.4<span
+                            class="text-sm text-red-400 ml-0.5">万</span></div>
+                    <div class="mt-1 text-red-400 text-xs font-medium">净利率 -1.3%</div>
+                </div>
+                <div class="p-4 bg-white rounded-xl shadow-sm border border-slate-100">
+                    <div class="text-xs text-slate-400 font-medium">综合退货率</div>
+                    <div class="mt-1.5 text-2xl font-bold text-yellow-600">28.4%</div>
+                    <div class="mt-1 text-slate-400 text-xs">行业均值 15%</div>
+                </div>
+                <div class="p-4 bg-white rounded-xl shadow-sm border border-slate-100">
+                    <div class="text-xs text-slate-400 font-medium">库存周转</div>
+                    <div class="mt-1.5 text-2xl font-bold text-orange-500">3.3<span
+                            class="text-sm text-slate-400 ml-0.5">天</span></div>
+                    <div class="mt-1 text-orange-400 text-xs font-medium">⚠️ 缺货风险</div>
+                </div>
+            </div>
+
+            <!-- Charts -->
+            <div class="grid grid-cols-3 gap-4 mb-5">
+                <div class="col-span-2 bg-white p-5 rounded-xl shadow-sm border border-slate-100">
+                    <h3 class="text-sm font-bold text-slate-700 mb-3">近 7 日 GMV vs 净利润</h3>
+                    <div class="h-48"><canvas id="trendChart"></canvas></div>
+                </div>
+                <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-100">
+                    <h3 class="text-sm font-bold text-slate-700 mb-3">渠道利润分布</h3>
+                    <div class="h-32 flex items-center justify-center"><canvas id="pieChart"></canvas></div>
+                    <div class="mt-3 space-y-1 text-xs">
+                        <div class="flex justify-between"><span>🐱 天猫</span><span
+                                class="font-bold text-green-600">+4.2w</span></div>
+                        <div class="flex justify-between"><span>🎵 抖音</span><span
+                                class="font-bold text-red-600">-2.4w</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Alerts Section -->
+            <h3 class="text-sm font-bold text-slate-700 mb-3 flex items-center">
+                🔔 智能预警
+                <span id="alert-status" class="ml-2 text-xs font-normal text-slate-400">(点击"一键巡检"扫描数据)</span>
+            </h3>
+            <div id="alerts-container" class="space-y-3">
+                <!-- Alerts will be dynamically inserted here -->
+                <div
+                    class="p-4 bg-slate-50 rounded-xl border border-dashed border-slate-200 text-center text-slate-400 text-sm">
+                    暂无预警，请点击右上角"一键巡检"开始扫描
+                </div>
+            </div>
+        </div>
+
+        <!-- ====== VIEW: Copilot ====== -->
+        <div id="view-copilot" class="hidden flex flex-col h-full">
+            <div class="flex flex-1 overflow-hidden">
+                <!-- Chat Area -->
+                <div class="flex-1 flex flex-col bg-gradient-to-b from-slate-50 to-slate-100">
+                    <div id="chat-history" class="flex-1 overflow-y-auto p-5 space-y-4">
+                        <div class="flex items-start animate-fade-in">
+                            <div
+                                class="w-8 h-8 rounded-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center text-white text-xs font-bold shrink-0 shadow">
+                                AI</div>
+                            <div
+                                class="ml-2.5 bg-white p-3.5 rounded-2xl rounded-tl-none shadow-sm max-w-xl border border-slate-100 text-sm text-slate-700 leading-relaxed">
+                                您好，我是 FinMatrix 财务分析 Agent。<br><br>
+                                请输入您的问题，或点击下方快捷按钮开始分析。
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Quick Buttons -->
+                    <div class="px-5 pb-2 flex space-x-2 flex-wrap gap-y-2">
+                        <button onclick="quickAsk('profit')"
+                            class="px-3 py-1.5 bg-red-50 border border-red-200 rounded-full text-xs text-red-600 font-medium hover:bg-red-100 transition-colors">
+                            🔴 分析抖音亏损原因
+                        </button>
+                        <button onclick="quickAsk('stock')"
+                            class="px-3 py-1.5 bg-yellow-50 border border-yellow-200 rounded-full text-xs text-yellow-700 font-medium hover:bg-yellow-100 transition-colors">
+                            🟡 检查库存周转
+                        </button>
+                    </div>
+
+                    <!-- Input -->
+                    <div class="p-4 bg-white border-t border-slate-100">
+                        <div class="max-w-3xl mx-auto relative">
+                            <input type="text" id="user-input"
+                                class="w-full pl-4 pr-11 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+                                placeholder="输入您的问题..." onkeydown="if(event.key === 'Enter') sendMessage()">
+                            <button onclick="sendMessage()"
+                                class="absolute right-1.5 top-1.5 p-1.5 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
+                                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                        d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Thinking Trace Sidebar -->
+                <div class="w-80 border-l border-slate-200 bg-white flex flex-col shrink-0">
+                    <div
+                        class="h-10 border-b border-slate-100 flex items-center px-3 text-xs font-bold text-slate-500 uppercase tracking-wider bg-slate-50">
+                        📊 Thinking Process
+                    </div>
+                    <div id="thinking-trace"
+                        class="flex-1 overflow-y-auto p-3 bg-slate-900 thinking-log text-slate-300">
+                        <div class="text-slate-500 italic">Waiting for input...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ====== VIEW: Tickets ====== -->
+        <div id="view-tickets" class="hidden p-6 max-w-4xl mx-auto animate-fade-in">
+            <header class="mb-6">
+                <h1 class="text-xl font-bold text-slate-800">任务工单</h1>
+            </header>
+
+            <div id="tickets-empty"
+                class="flex flex-col items-center justify-center py-16 bg-white rounded-xl border border-dashed border-slate-300">
+                <div class="p-4 bg-slate-100 rounded-full mb-4">
+                    <svg class="w-8 h-8 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                </div>
+                <h3 class="text-lg font-medium text-slate-600">当前无待办工单</h3>
+                <p class="text-slate-400 text-sm mt-1">Agent 生成的审批工单将在此显示</p>
+            </div>
+
+            <div id="tickets-list" class="hidden space-y-4">
+                <!-- Tickets will be dynamically inserted -->
+            </div>
+        </div>
+
+    </main>
+
+    <script>
+        // ========== State ==========
+        let pendingTickets = [];
+
+        // ========== Navigation ==========
+        function switchView(viewName) {
+            ['dashboard', 'copilot', 'tickets'].forEach(v => {
+                document.getElementById('view-' + v).classList.add('hidden');
+                const navBtn = document.getElementById('nav-' + v);
+                navBtn.classList.remove('active-nav');
+                navBtn.querySelector('svg').classList.remove('text-blue-500');
+                navBtn.querySelector('svg').classList.add('text-slate-400');
+            });
+            document.getElementById('view-' + viewName).classList.remove('hidden');
+            const activeNav = document.getElementById('nav-' + viewName);
+            activeNav.classList.add('active-nav');
+            activeNav.querySelector('svg').classList.remove('text-slate-400');
+            activeNav.querySelector('svg').classList.add('text-blue-500');
+        }
+
+        // ========== Dashboard Init ==========
+        window.addEventListener('load', () => {
+            const today = new Date().toLocaleDateString('zh-CN', { year: 'numeric', month: '2-digit', day: '2-digit' });
+            document.getElementById('dashboard-date').innerText = today;
+
+            // Trend Chart
+            const ctx1 = document.getElementById('trendChart').getContext('2d');
+            new Chart(ctx1, {
+                type: 'line',
+                data: {
+                    labels: ['周一', '周二', '周三', '周四', '周五', '周六', '昨日'],
+                    datasets: [{
+                        label: 'GMV (万)',
+                        data: [45, 52, 48, 61, 55, 120, 185],
+                        borderColor: '#94a3b8',
+                        borderDash: [5, 5],
+                        tension: 0.3,
+                        yAxisID: 'y'
+                    }, {
+                        label: '净利润 (万)',
+                        data: [2.1, 2.8, 2.2, 3.5, 2.9, -0.5, -2.4],
+                        borderColor: '#ef4444',
+                        backgroundColor: 'rgba(239,68,68,0.08)',
+                        fill: true,
+                        tension: 0.3,
+                        yAxisID: 'y1'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { position: 'top', labels: { boxWidth: 12, font: { size: 10 } } } },
+                    scales: {
+                        y: { type: 'linear', display: true, position: 'left' },
+                        y1: { type: 'linear', display: true, position: 'right', grid: { drawOnChartArea: false } }
+                    }
+                }
+            });
+
+            // Pie Chart
+            const ctx2 = document.getElementById('pieChart').getContext('2d');
+            new Chart(ctx2, {
+                type: 'doughnut',
+                data: {
+                    labels: ['天猫', '抖音'],
+                    datasets: [{ data: [4.2, 2.4], backgroundColor: ['#3b82f6', '#ef4444'], borderWidth: 0 }]
+                },
+                options: { cutout: '65%', plugins: { legend: { display: false } } }
+            });
+        });
+
+        // ========== Scan Alerts ==========
+        async function runScan() {
+            const btn = document.getElementById('scan-btn');
+            const container = document.getElementById('alerts-container');
+            const status = document.getElementById('alert-status');
+
+            btn.disabled = true;
+            btn.innerHTML = '<span class="animate-pulse">扫描中...</span>';
+            status.textContent = '(正在扫描数据源...)';
+
+            try {
+                const res = await fetch('/api/scan-alerts');
+                const data = await res.json();
+
+                container.innerHTML = '';
+
+                if (data.alerts && data.alerts.length > 0) {
+                    status.textContent = `(${data.alerts.length} 条预警 @ ${new Date(data.scan_time).toLocaleTimeString()})`;
+
+                    data.alerts.forEach(alert => {
+                        const severityColor = alert.severity === 'high' ? 'red' : 'yellow';
+                        const card = document.createElement('div');
+                        card.className = `p-4 bg-white rounded-xl shadow-sm border-l-4 border-${severityColor}-500 cursor-pointer hover:shadow-md transition-shadow animate-fade-in`;
+                        card.onclick = () => triggerFromAlert(alert.query);
+                        card.innerHTML = `
+                            <div class="flex justify-between items-start">
+                                <h4 class="font-bold text-${severityColor}-700 text-sm">${alert.title}</h4>
+                                <span class="text-xs text-${severityColor}-100 bg-${severityColor}-500 px-1.5 py-0.5 rounded">${alert.severity === 'high' ? 'High' : 'Medium'}</span>
+                            </div>
+                            <p class="text-slate-500 text-xs mt-1.5">${alert.description}</p>
+                            <div class="mt-2 text-blue-600 text-xs font-medium hover:underline">点击进入归因分析 →</div>
+                        `;
+                        container.appendChild(card);
+                    });
+                } else {
+                    container.innerHTML = '<div class="p-4 bg-green-50 rounded-xl text-green-700 text-sm text-center">✅ 巡检完成，暂无异常</div>';
+                    status.textContent = '(无异常)';
+                }
+            } catch (e) {
+                container.innerHTML = `<div class="p-4 bg-red-50 rounded-xl text-red-600 text-sm">Error: ${e.message}</div>`;
+            }
+
+            btn.disabled = false;
+            btn.innerHTML = '<svg class="w-4 h-4 mr-1.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg> 一键巡检';
+        }
+
+        function triggerFromAlert(query) {
+            switchView('copilot');
+            document.getElementById('user-input').value = query;
+            setTimeout(() => sendMessage(), 200);
+        }
+
+        // ========== Data Preview ==========
+        async function previewData(source) {
+            const modal = document.getElementById('data-modal');
+            const content = document.getElementById('modal-content');
+            const title = document.getElementById('modal-title');
+
+            modal.classList.remove('hidden');
+            content.innerText = 'Loading...';
+            title.innerText = `数据预览: ${source.toUpperCase()}`;
+
+            try {
+                const res = await fetch('/api/data-preview');
+                const data = await res.json();
+
+                if (source === 'douyin' && data.douyin) {
+                    content.innerText = JSON.stringify(data.douyin, null, 2);
+                } else if (source === 'erp' && data.erp) {
+                    content.innerText = JSON.stringify(data.erp, null, 2);
+                } else if (source === 'tmall') {
+                    content.innerText = '// Tmall API Mocking\n' + JSON.stringify({ status: 'ok', gmv: 35000 }, null, 2);
+                }
+            } catch (e) {
+                content.innerText = 'Error: ' + e.message;
+            }
+        }
+
+        function closeDataModal(event) {
+            if (!event || event.target.id === 'data-modal') {
+                document.getElementById('data-modal').classList.add('hidden');
+            }
+        }
+
+        // ========== Chat Logic ==========
+        function quickAsk(type) {
+            const input = document.getElementById('user-input');
+            if (type === 'profit') {
+                input.value = '帮我分析一下为什么昨天抖音渠道GMV虽然高，但是显示亏损？具体数据是多少？';
+            } else if (type === 'stock') {
+                input.value = '检查一下猫粮经典款的库存情况，按目前的销量还能撑几天？';
+            }
+            sendMessage();
+        }
+
+        async function sendMessage() {
+            const inputEl = document.getElementById('user-input');
+            const msg = inputEl.value.trim();
+            if (!msg) return;
+
+            const history = document.getElementById('chat-history');
+            const trace = document.getElementById('thinking-trace');
+
+            // User bubble
+            history.innerHTML += `
+                <div class="flex justify-end animate-fade-in">
+                    <div class="bg-blue-600 text-white p-3 rounded-2xl rounded-tr-none shadow-sm max-w-md text-sm">${escapeHtml(msg)}</div>
+                    <div class="w-8 h-8 rounded-full bg-slate-200 flex items-center justify-center text-xs font-bold ml-2 shrink-0">ME</div>
+                </div>`;
+            inputEl.value = '';
+            history.scrollTop = history.scrollHeight;
+
+            // Clear trace
+            trace.innerHTML = '<div class="text-yellow-400 animate-pulse">Agent is reasoning...</div>';
+
+            // AI placeholder
+            const aiDiv = document.createElement('div');
+            aiDiv.className = 'flex items-start animate-fade-in';
+            aiDiv.innerHTML = `
+                <div class="w-8 h-8 rounded-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center text-white text-xs font-bold shrink-0 shadow">AI</div>
+                <div class="ml-2.5 bg-white p-3.5 rounded-2xl rounded-tl-none shadow-sm max-w-xl border border-slate-100 text-sm text-slate-700 leading-relaxed ai-content">
+                    <span class="text-slate-400 animate-pulse">思考中...</span>
+                </div>`;
+            history.appendChild(aiDiv);
+            const aiContent = aiDiv.querySelector('.ai-content');
+            let buffer = '';
+
+            try {
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: msg })
+                });
+                if (!response.ok) throw new Error('Request failed: ' + response.status);
+
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                aiContent.innerHTML = '';
+
+                while (true) {
+                    const { value, done } = await reader.read();
+                    if (done) break;
+
+                    const chunk = decoder.decode(value);
+                    const lines = chunk.split('\n\n');
+
+                    for (const line of lines) {
+                        if (line.startsWith('data: ')) {
+                            const jsonStr = line.slice(6);
+                            if (jsonStr === '[DONE]') break;
+                            try {
+                                const data = JSON.parse(jsonStr);
+
+                                if (data.type === 'tool_start') {
+                                    trace.innerHTML += `
+                                        <div class="log-item log-tool">
+                                            <div class="text-yellow-400 font-bold">🔧 ${data.tool}</div>
+                                            <div class="text-slate-500 mt-1">Params: ${JSON.stringify(data.input, null, 2)}</div>
+                                        </div>`;
+                                } else if (data.type === 'tool_end') {
+                                    const outputStr = JSON.stringify(data.output, null, 2);
+                                    const truncated = outputStr.length > 300 ? outputStr.slice(0, 300) + '...' : outputStr;
+                                    trace.innerHTML += `
+                                        <div class="log-item log-result">
+                                            <div class="text-green-400 font-bold">✅ Result (${data.tool})</div>
+                                            <div class="text-slate-400 mt-1 whitespace-pre-wrap">${escapeHtml(truncated)}</div>
+                                        </div>`;
+                                } else if (data.type === 'token') {
+                                    buffer += data.content;
+                                    aiContent.innerHTML = renderMarkdown(buffer);
+                                    history.scrollTop = history.scrollHeight;
+                                }
+                                trace.scrollTop = trace.scrollHeight;
+                            } catch (e) { }
+                        }
+                    }
+                }
+            } catch (e) {
+                trace.innerHTML += `<div class="text-red-500 mt-2">Error: ${e.message}</div>`;
+                aiContent.innerHTML = `<span class="text-red-500">系统错误: ${e.message}</span>`;
+            }
+        }
+
+        // ========== Human-in-the-loop ==========
+        // Store pending action info globally
+        let pendingActionInfo = null;
+
+        function renderMarkdown(text) {
+            // Step 1: Extract [CONFIRM_ACTION] block and store info, remove from text
+            const regex = /\[CONFIRM_ACTION\]([\s\S]*?)\[\/CONFIRM_ACTION\]/g;
+            let result = text;
+            let hasConfirmAction = false;
+            let match;
+
+            while ((match = regex.exec(text)) !== null) {
+                hasConfirmAction = true;
+                const block = match[1];
+                const getField = (name) => {
+                    const m = block.match(new RegExp(`${name}:\\s*(.+)`));
+                    return m ? m[1].trim() : '';
+                };
+
+                // Store the action info for later use
+                pendingActionInfo = {
+                    department: getField('department'),
+                    title: getField('title'),
+                    reason: getField('reason')
+                };
+
+                // Remove the entire [CONFIRM_ACTION] block from result
+                result = result.replace(match[0], '');
+            }
+
+            // Step 2: Use marked.js for Markdown rendering
+            try {
+                marked.setOptions({
+                    gfm: true,
+                    breaks: true
+                });
+                result = marked.parse(result);
+            } catch (e) {
+                result = result.replace(/\n/g, '<br>');
+            }
+
+            // Step 3: If there was a CONFIRM_ACTION, append the card at the end
+            if (hasConfirmAction && pendingActionInfo) {
+                result += buildConfirmCard();
+            }
+            // Step 3b: Fallback detection - if Agent asks about sending ticket in natural language
+            else if (!hasConfirmAction && detectTicketRequest(text)) {
+                // Create a pending action based on detected context
+                pendingActionInfo = extractTicketInfoFromText(text);
+                result += buildConfirmCard();
+            }
+
+            return result;
+        }
+
+        // Detect if Agent is asking about creating a ticket
+        function detectTicketRequest(text) {
+            const patterns = [
+                // 工单相关
+                /是否需要.*工单/,
+                /需要我.*创建.*工单/,
+                /需要我.*发送.*工单/,
+                /是否要.*工单/,
+                /是否.*创建.*工单/,
+                /需要.*发送预警/,
+                /需要.*通知/,
+                // 库存/供应链相关
+                /创建供应链.*工单/,
+                /发送.*紧急工单/,
+                /是否立即.*通知/
+            ];
+            return patterns.some(p => p.test(text));
+        }
+
+        // Extract ticket info from natural language context
+        function extractTicketInfoFromText(text) {
+            let department = '运营部';
+            let title = '财务异常预警工单';
+            let reason = '检测到异常情况，建议及时处理';
+
+            // Detect department based on keywords
+            if (text.includes('供应链') || text.includes('库存') || text.includes('备货')) {
+                department = '供应链部';
+                title = '库存紧急预警工单';
+                reason = '检测到库存异常，需要紧急补货或调整策略';
+            } else if (text.includes('亏损') || text.includes('利润') || text.includes('退货')) {
+                department = '运营部';
+                title = '抖音渠道亏损预警工单';
+                reason = '检测到渠道亏损，建议暂停投放并排查原因';
+            } else if (text.includes('广告') || text.includes('投流') || text.includes('ROI')) {
+                department = '市场部';
+                title = '广告投放效果预警工单';
+                reason = '广告ROI过低，建议优化投放策略';
+            }
+
+            return { department, title, reason };
+        }
+
+        function buildConfirmCard() {
+            if (!pendingActionInfo) return '';
+            return `
+                <div class="mt-4 p-4 bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-xl shadow-sm">
+                    <div class="text-sm text-blue-700 font-bold mb-2 flex items-center">
+                        <span class="mr-2">🤖</span> Agent 建议执行以下操作
+                    </div>
+                    <div class="text-sm text-slate-700 mb-3 space-y-1">
+                        <div><span class="font-medium text-slate-500">部门：</span>${pendingActionInfo.department}</div>
+                        <div><span class="font-medium text-slate-500">标题：</span>${pendingActionInfo.title}</div>
+                        <div><span class="font-medium text-slate-500">原因：</span>${pendingActionInfo.reason}</div>
+                    </div>
+                    <div class="flex space-x-3">
+                        <button onclick="confirmTicket()" class="px-4 py-2 bg-blue-600 text-white text-sm font-medium rounded-lg hover:bg-blue-700 shadow-sm transition-colors">
+                            ✅ 确认发送
+                        </button>
+                        <button onclick="rejectTicket()" class="px-4 py-2 bg-white border border-slate-300 text-slate-600 text-sm font-medium rounded-lg hover:bg-slate-50 transition-colors">
+                            暂不处理
+                        </button>
+                    </div>
+                </div>
+            `;
+        }
+
+        async function confirmTicket() {
+            if (!pendingActionInfo) {
+                alert('No pending action found');
+                return;
+            }
+
+            // Add to pending tickets list
+            pendingTickets.push({
+                id: 'TICKET-' + Date.now(),
+                title: pendingActionInfo.title,
+                status: 'pending',
+                createdAt: new Date().toLocaleString()
+            });
+            updateTicketBadge();
+
+            // Send complete ticket info to Agent so it can directly call create_feishu_ticket
+            const msg = `用户已确认，请立即创建工单。工单信息如下：
+优先级: High
+部门: ${pendingActionInfo.department}
+标题: ${pendingActionInfo.title}
+内容: ${pendingActionInfo.reason}`;
+
+            document.getElementById('user-input').value = msg;
+            pendingActionInfo = null; // Clear after use
+            await sendMessage();
+        }
+
+        function rejectTicket() {
+            const history = document.getElementById('chat-history');
+            history.innerHTML += `
+                <div class="flex justify-end animate-fade-in">
+                    <div class="bg-slate-100 text-slate-600 p-3 rounded-2xl rounded-tr-none shadow-sm max-w-md text-sm">已取消操作。</div>
+                </div>`;
+        }
+
+        function updateTicketBadge() {
+            const badge = document.getElementById('ticket-badge');
+            if (pendingTickets.length > 0) {
+                badge.classList.remove('hidden');
+                badge.textContent = pendingTickets.length;
+            } else {
+                badge.classList.add('hidden');
+            }
+            // Also update the tickets list view
+            renderTicketsList();
+        }
+
+        function renderTicketsList() {
+            const emptyState = document.getElementById('tickets-empty');
+            const listContainer = document.getElementById('tickets-list');
+
+            if (pendingTickets.length === 0) {
+                emptyState.classList.remove('hidden');
+                listContainer.classList.add('hidden');
+                return;
+            }
+
+            emptyState.classList.add('hidden');
+            listContainer.classList.remove('hidden');
+
+            listContainer.innerHTML = pendingTickets.map((ticket, index) => `
+                <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm">
+                    <div class="flex items-start justify-between mb-3">
+                        <div class="flex items-center space-x-2">
+                            <span class="px-2 py-1 text-xs font-medium rounded-full ${ticket.status === 'pending' ? 'bg-yellow-100 text-yellow-700' : 'bg-green-100 text-green-700'}">
+                                ${ticket.status === 'pending' ? '待处理' : '已完成'}
+                            </span>
+                            <span class="text-xs text-slate-400">${ticket.id}</span>
+                        </div>
+                        <span class="text-xs text-slate-400">${ticket.createdAt}</span>
+                    </div>
+                    <h3 class="font-medium text-slate-800 mb-2">${ticket.title}</h3>
+                    <div class="flex space-x-2 mt-3">
+                        <button onclick="markTicketComplete(${index})" class="px-3 py-1.5 bg-green-600 text-white text-xs font-medium rounded-lg hover:bg-green-700">
+                            ✅ 标记完成
+                        </button>
+                        <button onclick="removeTicket(${index})" class="px-3 py-1.5 bg-white border border-slate-200 text-slate-500 text-xs font-medium rounded-lg hover:bg-slate-50">
+                            删除
+                        </button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function markTicketComplete(index) {
+            if (pendingTickets[index]) {
+                pendingTickets[index].status = 'completed';
+                renderTicketsList();
+            }
+        }
+
+        function removeTicket(index) {
+            pendingTickets.splice(index, 1);
+            updateTicketBadge();
+        }
+
+        // ========== Utilities ==========
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,2702 @@
+[
+  {
+    "date": "2025-10-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32597.36,
+    "marketing_fee": 3259.74,
+    "platform_commission": 0.05,
+    "refund_amount": 651.95,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 556.3,
+    "marketing_fee": 27.81,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 459.76,
+    "marketing_fee": 22.99,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30825.14,
+    "marketing_fee": 3082.51,
+    "platform_commission": 0.05,
+    "refund_amount": 616.5,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 412.31,
+    "marketing_fee": 20.62,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 477.76,
+    "marketing_fee": 23.89,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31738.09,
+    "marketing_fee": 3173.81,
+    "platform_commission": 0.05,
+    "refund_amount": 634.76,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 549.58,
+    "marketing_fee": 27.48,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 406.36,
+    "marketing_fee": 20.32,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28865.05,
+    "marketing_fee": 2886.5,
+    "platform_commission": 0.05,
+    "refund_amount": 577.3,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 499.53,
+    "marketing_fee": 24.98,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 450.26,
+    "marketing_fee": 22.51,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29458.87,
+    "marketing_fee": 2945.89,
+    "platform_commission": 0.05,
+    "refund_amount": 589.18,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 593.36,
+    "marketing_fee": 29.67,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 451.14,
+    "marketing_fee": 22.56,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32352.34,
+    "marketing_fee": 3235.23,
+    "platform_commission": 0.05,
+    "refund_amount": 647.05,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 514.04,
+    "marketing_fee": 25.7,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 487.33,
+    "marketing_fee": 24.37,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28078.57,
+    "marketing_fee": 2807.86,
+    "platform_commission": 0.05,
+    "refund_amount": 561.57,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 465.27,
+    "marketing_fee": 23.26,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 548.99,
+    "marketing_fee": 27.45,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31687.0,
+    "marketing_fee": 3168.7,
+    "platform_commission": 0.05,
+    "refund_amount": 633.74,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 559.91,
+    "marketing_fee": 28.0,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 422.08,
+    "marketing_fee": 21.1,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30439.93,
+    "marketing_fee": 3043.99,
+    "platform_commission": 0.05,
+    "refund_amount": 608.8,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 480.31,
+    "marketing_fee": 24.02,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 561.78,
+    "marketing_fee": 28.09,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32267.54,
+    "marketing_fee": 3226.75,
+    "platform_commission": 0.05,
+    "refund_amount": 645.35,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 439.55,
+    "marketing_fee": 21.98,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 403.57,
+    "marketing_fee": 20.18,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29562.48,
+    "marketing_fee": 2956.25,
+    "platform_commission": 0.05,
+    "refund_amount": 591.25,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 539.94,
+    "marketing_fee": 27.0,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 556.98,
+    "marketing_fee": 27.85,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-31",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29740.95,
+    "marketing_fee": 2974.1,
+    "platform_commission": 0.05,
+    "refund_amount": 594.82,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-31",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 523.15,
+    "marketing_fee": 26.16,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-10-31",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 465.83,
+    "marketing_fee": 23.29,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29599.11,
+    "marketing_fee": 2959.91,
+    "platform_commission": 0.05,
+    "refund_amount": 591.98,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 555.09,
+    "marketing_fee": 27.75,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 495.12,
+    "marketing_fee": 24.76,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31633.93,
+    "marketing_fee": 3163.39,
+    "platform_commission": 0.05,
+    "refund_amount": 632.68,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 449.65,
+    "marketing_fee": 22.48,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 583.46,
+    "marketing_fee": 29.17,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28746.86,
+    "marketing_fee": 2874.69,
+    "platform_commission": 0.05,
+    "refund_amount": 574.94,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 473.86,
+    "marketing_fee": 23.69,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 564.9,
+    "marketing_fee": 28.24,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28092.32,
+    "marketing_fee": 2809.23,
+    "platform_commission": 0.05,
+    "refund_amount": 561.85,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 405.51,
+    "marketing_fee": 20.28,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 566.83,
+    "marketing_fee": 28.34,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27123.76,
+    "marketing_fee": 2712.38,
+    "platform_commission": 0.05,
+    "refund_amount": 542.48,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 577.29,
+    "marketing_fee": 28.86,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 595.49,
+    "marketing_fee": 29.77,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31230.91,
+    "marketing_fee": 3123.09,
+    "platform_commission": 0.05,
+    "refund_amount": 624.62,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 437.96,
+    "marketing_fee": 21.9,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 544.79,
+    "marketing_fee": 27.24,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31118.14,
+    "marketing_fee": 3111.81,
+    "platform_commission": 0.05,
+    "refund_amount": 622.36,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 444.25,
+    "marketing_fee": 22.21,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 439.49,
+    "marketing_fee": 21.97,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30558.67,
+    "marketing_fee": 3055.87,
+    "platform_commission": 0.05,
+    "refund_amount": 611.17,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 553.78,
+    "marketing_fee": 27.69,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 449.34,
+    "marketing_fee": 22.47,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28598.06,
+    "marketing_fee": 2859.81,
+    "platform_commission": 0.05,
+    "refund_amount": 571.96,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 504.47,
+    "marketing_fee": 25.22,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 451.69,
+    "marketing_fee": 22.58,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28955.38,
+    "marketing_fee": 2895.54,
+    "platform_commission": 0.05,
+    "refund_amount": 579.11,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 481.46,
+    "marketing_fee": 24.07,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 507.29,
+    "marketing_fee": 25.36,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32969.22,
+    "marketing_fee": 3296.92,
+    "platform_commission": 0.05,
+    "refund_amount": 659.38,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 437.65,
+    "marketing_fee": 21.88,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 406.97,
+    "marketing_fee": 20.35,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29268.05,
+    "marketing_fee": 2926.8,
+    "platform_commission": 0.05,
+    "refund_amount": 585.36,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 448.76,
+    "marketing_fee": 22.44,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 454.76,
+    "marketing_fee": 22.74,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32044.39,
+    "marketing_fee": 3204.44,
+    "platform_commission": 0.05,
+    "refund_amount": 640.89,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 576.61,
+    "marketing_fee": 28.83,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 541.51,
+    "marketing_fee": 27.08,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32800.84,
+    "marketing_fee": 3280.08,
+    "platform_commission": 0.05,
+    "refund_amount": 656.02,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 453.36,
+    "marketing_fee": 22.67,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 438.68,
+    "marketing_fee": 21.93,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32297.89,
+    "marketing_fee": 3229.79,
+    "platform_commission": 0.05,
+    "refund_amount": 645.96,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 508.45,
+    "marketing_fee": 25.42,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 494.45,
+    "marketing_fee": 24.72,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30522.53,
+    "marketing_fee": 3052.25,
+    "platform_commission": 0.05,
+    "refund_amount": 610.45,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 585.43,
+    "marketing_fee": 29.27,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 455.11,
+    "marketing_fee": 22.76,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29231.04,
+    "marketing_fee": 2923.1,
+    "platform_commission": 0.05,
+    "refund_amount": 584.62,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 580.52,
+    "marketing_fee": 29.03,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 561.15,
+    "marketing_fee": 28.06,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-18",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30480.97,
+    "marketing_fee": 3048.1,
+    "platform_commission": 0.05,
+    "refund_amount": 609.62,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-18",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 594.63,
+    "marketing_fee": 29.73,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-18",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 483.42,
+    "marketing_fee": 24.17,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-19",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27725.56,
+    "marketing_fee": 2772.56,
+    "platform_commission": 0.05,
+    "refund_amount": 554.51,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-19",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 529.18,
+    "marketing_fee": 26.46,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-19",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 475.64,
+    "marketing_fee": 23.78,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31589.08,
+    "marketing_fee": 3158.91,
+    "platform_commission": 0.05,
+    "refund_amount": 631.78,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 416.71,
+    "marketing_fee": 20.84,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 462.14,
+    "marketing_fee": 23.11,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27256.63,
+    "marketing_fee": 2725.66,
+    "platform_commission": 0.05,
+    "refund_amount": 545.13,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 560.17,
+    "marketing_fee": 28.01,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 493.43,
+    "marketing_fee": 24.67,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31214.02,
+    "marketing_fee": 3121.4,
+    "platform_commission": 0.05,
+    "refund_amount": 624.28,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 486.47,
+    "marketing_fee": 24.32,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 567.21,
+    "marketing_fee": 28.36,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27884.85,
+    "marketing_fee": 2788.48,
+    "platform_commission": 0.05,
+    "refund_amount": 557.7,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 498.67,
+    "marketing_fee": 24.93,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 528.55,
+    "marketing_fee": 26.43,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32434.29,
+    "marketing_fee": 3243.43,
+    "platform_commission": 0.05,
+    "refund_amount": 648.69,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 425.58,
+    "marketing_fee": 21.28,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 407.41,
+    "marketing_fee": 20.37,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32045.65,
+    "marketing_fee": 3204.57,
+    "platform_commission": 0.05,
+    "refund_amount": 640.91,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 542.69,
+    "marketing_fee": 27.13,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 571.13,
+    "marketing_fee": 28.56,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27699.86,
+    "marketing_fee": 2769.99,
+    "platform_commission": 0.05,
+    "refund_amount": 554.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 470.14,
+    "marketing_fee": 23.51,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 407.04,
+    "marketing_fee": 20.35,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31209.19,
+    "marketing_fee": 3120.92,
+    "platform_commission": 0.05,
+    "refund_amount": 624.18,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 485.52,
+    "marketing_fee": 24.28,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 405.92,
+    "marketing_fee": 20.3,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31440.35,
+    "marketing_fee": 3144.03,
+    "platform_commission": 0.05,
+    "refund_amount": 628.81,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 483.41,
+    "marketing_fee": 24.17,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 530.56,
+    "marketing_fee": 26.53,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30487.48,
+    "marketing_fee": 3048.75,
+    "platform_commission": 0.05,
+    "refund_amount": 609.75,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 578.21,
+    "marketing_fee": 28.91,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 597.78,
+    "marketing_fee": 29.89,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27610.88,
+    "marketing_fee": 2761.09,
+    "platform_commission": 0.05,
+    "refund_amount": 552.22,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 488.71,
+    "marketing_fee": 24.44,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-11-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 508.81,
+    "marketing_fee": 25.44,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31571.71,
+    "marketing_fee": 3157.17,
+    "platform_commission": 0.05,
+    "refund_amount": 631.43,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 459.1,
+    "marketing_fee": 22.96,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 488.53,
+    "marketing_fee": 24.43,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30348.69,
+    "marketing_fee": 3034.87,
+    "platform_commission": 0.05,
+    "refund_amount": 606.97,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 595.89,
+    "marketing_fee": 29.79,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 512.94,
+    "marketing_fee": 25.65,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32731.22,
+    "marketing_fee": 3273.12,
+    "platform_commission": 0.05,
+    "refund_amount": 654.62,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 567.15,
+    "marketing_fee": 28.36,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 507.08,
+    "marketing_fee": 25.35,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29110.1,
+    "marketing_fee": 2911.01,
+    "platform_commission": 0.05,
+    "refund_amount": 582.2,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 516.75,
+    "marketing_fee": 25.84,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 491.49,
+    "marketing_fee": 24.57,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31729.3,
+    "marketing_fee": 3172.93,
+    "platform_commission": 0.05,
+    "refund_amount": 634.59,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 501.48,
+    "marketing_fee": 25.07,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 403.14,
+    "marketing_fee": 20.16,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32697.98,
+    "marketing_fee": 3269.8,
+    "platform_commission": 0.05,
+    "refund_amount": 653.96,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 588.23,
+    "marketing_fee": 29.41,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 599.84,
+    "marketing_fee": 29.99,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32594.02,
+    "marketing_fee": 3259.4,
+    "platform_commission": 0.05,
+    "refund_amount": 651.88,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 513.08,
+    "marketing_fee": 25.65,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 436.09,
+    "marketing_fee": 21.8,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27668.8,
+    "marketing_fee": 2766.88,
+    "platform_commission": 0.05,
+    "refund_amount": 553.38,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 537.03,
+    "marketing_fee": 26.85,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 494.81,
+    "marketing_fee": 24.74,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32796.37,
+    "marketing_fee": 3279.64,
+    "platform_commission": 0.05,
+    "refund_amount": 655.93,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 528.42,
+    "marketing_fee": 26.42,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 406.14,
+    "marketing_fee": 20.31,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31354.81,
+    "marketing_fee": 3135.48,
+    "platform_commission": 0.05,
+    "refund_amount": 627.1,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 526.62,
+    "marketing_fee": 26.33,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 420.88,
+    "marketing_fee": 21.04,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28122.2,
+    "marketing_fee": 2812.22,
+    "platform_commission": 0.05,
+    "refund_amount": 562.44,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 457.19,
+    "marketing_fee": 22.86,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 474.66,
+    "marketing_fee": 23.73,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30591.08,
+    "marketing_fee": 3059.11,
+    "platform_commission": 0.05,
+    "refund_amount": 611.82,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 435.47,
+    "marketing_fee": 21.77,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 517.66,
+    "marketing_fee": 25.88,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27182.23,
+    "marketing_fee": 2718.22,
+    "platform_commission": 0.05,
+    "refund_amount": 543.64,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 528.1,
+    "marketing_fee": 26.41,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 472.25,
+    "marketing_fee": 23.61,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28119.36,
+    "marketing_fee": 2811.94,
+    "platform_commission": 0.05,
+    "refund_amount": 562.39,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 568.86,
+    "marketing_fee": 28.44,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 416.31,
+    "marketing_fee": 20.82,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29270.59,
+    "marketing_fee": 2927.06,
+    "platform_commission": 0.05,
+    "refund_amount": 585.41,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 556.93,
+    "marketing_fee": 27.85,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 498.31,
+    "marketing_fee": 24.92,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28843.56,
+    "marketing_fee": 2884.36,
+    "platform_commission": 0.05,
+    "refund_amount": 576.87,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 524.18,
+    "marketing_fee": 26.21,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 476.51,
+    "marketing_fee": 23.83,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32185.13,
+    "marketing_fee": 3218.51,
+    "platform_commission": 0.05,
+    "refund_amount": 643.7,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 489.17,
+    "marketing_fee": 24.46,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 504.14,
+    "marketing_fee": 25.21,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-18",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28934.27,
+    "marketing_fee": 2893.43,
+    "platform_commission": 0.05,
+    "refund_amount": 578.69,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-18",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 413.65,
+    "marketing_fee": 20.68,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-18",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 547.4,
+    "marketing_fee": 27.37,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-19",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27200.68,
+    "marketing_fee": 2720.07,
+    "platform_commission": 0.05,
+    "refund_amount": 544.01,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-19",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 597.96,
+    "marketing_fee": 29.9,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-19",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 474.74,
+    "marketing_fee": 23.74,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29845.31,
+    "marketing_fee": 2984.53,
+    "platform_commission": 0.05,
+    "refund_amount": 596.91,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 502.81,
+    "marketing_fee": 25.14,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-20",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 570.76,
+    "marketing_fee": 28.54,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28773.32,
+    "marketing_fee": 2877.33,
+    "platform_commission": 0.05,
+    "refund_amount": 575.47,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 577.67,
+    "marketing_fee": 28.88,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-21",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 555.63,
+    "marketing_fee": 27.78,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31868.12,
+    "marketing_fee": 3186.81,
+    "platform_commission": 0.05,
+    "refund_amount": 637.36,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 496.61,
+    "marketing_fee": 24.83,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-22",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 478.68,
+    "marketing_fee": 23.93,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27519.18,
+    "marketing_fee": 2751.92,
+    "platform_commission": 0.05,
+    "refund_amount": 550.38,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 461.99,
+    "marketing_fee": 23.1,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-23",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 415.29,
+    "marketing_fee": 20.76,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32594.98,
+    "marketing_fee": 3259.5,
+    "platform_commission": 0.05,
+    "refund_amount": 651.9,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 444.59,
+    "marketing_fee": 22.23,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-24",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 439.53,
+    "marketing_fee": 21.98,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32784.04,
+    "marketing_fee": 3278.4,
+    "platform_commission": 0.05,
+    "refund_amount": 655.68,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 523.55,
+    "marketing_fee": 26.18,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-25",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 519.99,
+    "marketing_fee": 26.0,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30253.86,
+    "marketing_fee": 3025.39,
+    "platform_commission": 0.05,
+    "refund_amount": 605.08,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 490.76,
+    "marketing_fee": 24.54,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-26",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 564.95,
+    "marketing_fee": 28.25,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31947.01,
+    "marketing_fee": 3194.7,
+    "platform_commission": 0.05,
+    "refund_amount": 638.94,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 459.63,
+    "marketing_fee": 22.98,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-27",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 491.04,
+    "marketing_fee": 24.55,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32198.49,
+    "marketing_fee": 3219.85,
+    "platform_commission": 0.05,
+    "refund_amount": 643.97,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 545.54,
+    "marketing_fee": 27.28,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-28",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 474.53,
+    "marketing_fee": 23.73,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31215.94,
+    "marketing_fee": 3121.59,
+    "platform_commission": 0.05,
+    "refund_amount": 624.32,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 453.62,
+    "marketing_fee": 22.68,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-29",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 436.96,
+    "marketing_fee": 21.85,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27920.71,
+    "marketing_fee": 2792.07,
+    "platform_commission": 0.05,
+    "refund_amount": 558.41,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 562.73,
+    "marketing_fee": 28.14,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-30",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 481.66,
+    "marketing_fee": 24.08,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-31",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32608.8,
+    "marketing_fee": 3260.88,
+    "platform_commission": 0.05,
+    "refund_amount": 652.18,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-31",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 502.24,
+    "marketing_fee": 25.11,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2025-12-31",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 460.17,
+    "marketing_fee": 23.01,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32133.04,
+    "marketing_fee": 3213.3,
+    "platform_commission": 0.05,
+    "refund_amount": 642.66,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 444.78,
+    "marketing_fee": 22.24,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-01",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 577.79,
+    "marketing_fee": 28.89,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29879.67,
+    "marketing_fee": 2987.97,
+    "platform_commission": 0.05,
+    "refund_amount": 597.59,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 446.46,
+    "marketing_fee": 22.32,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-02",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 465.49,
+    "marketing_fee": 23.27,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31593.2,
+    "marketing_fee": 3159.32,
+    "platform_commission": 0.05,
+    "refund_amount": 631.86,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 508.67,
+    "marketing_fee": 25.43,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-03",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 447.95,
+    "marketing_fee": 22.4,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31394.88,
+    "marketing_fee": 3139.49,
+    "platform_commission": 0.05,
+    "refund_amount": 627.9,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 502.67,
+    "marketing_fee": 25.13,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-04",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 555.79,
+    "marketing_fee": 27.79,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 30726.43,
+    "marketing_fee": 3072.64,
+    "platform_commission": 0.05,
+    "refund_amount": 614.53,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 486.78,
+    "marketing_fee": 24.34,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-05",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 576.46,
+    "marketing_fee": 28.82,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28935.74,
+    "marketing_fee": 2893.57,
+    "platform_commission": 0.05,
+    "refund_amount": 578.71,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 469.3,
+    "marketing_fee": 23.47,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-06",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 405.55,
+    "marketing_fee": 20.28,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29446.07,
+    "marketing_fee": 2944.61,
+    "platform_commission": 0.05,
+    "refund_amount": 588.92,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 403.75,
+    "marketing_fee": 20.19,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-07",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 518.63,
+    "marketing_fee": 25.93,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 27151.86,
+    "marketing_fee": 2715.19,
+    "platform_commission": 0.05,
+    "refund_amount": 543.04,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 467.64,
+    "marketing_fee": 23.38,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-08",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 509.83,
+    "marketing_fee": 25.49,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 29669.82,
+    "marketing_fee": 2966.98,
+    "platform_commission": 0.05,
+    "refund_amount": 593.4,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 582.0,
+    "marketing_fee": 29.1,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-09",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 416.99,
+    "marketing_fee": 20.85,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31265.2,
+    "marketing_fee": 3126.52,
+    "platform_commission": 0.05,
+    "refund_amount": 625.3,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 472.45,
+    "marketing_fee": 23.62,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-10",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 551.78,
+    "marketing_fee": 27.59,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 28409.92,
+    "marketing_fee": 2840.99,
+    "platform_commission": 0.05,
+    "refund_amount": 568.2,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 449.13,
+    "marketing_fee": 22.46,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-11",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 432.97,
+    "marketing_fee": 21.65,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32267.96,
+    "marketing_fee": 3226.8,
+    "platform_commission": 0.05,
+    "refund_amount": 645.36,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 581.66,
+    "marketing_fee": 29.08,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-12",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 533.22,
+    "marketing_fee": 26.66,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32386.05,
+    "marketing_fee": 3238.61,
+    "platform_commission": 0.05,
+    "refund_amount": 647.72,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 434.42,
+    "marketing_fee": 21.72,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-13",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 599.52,
+    "marketing_fee": 29.98,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31125.44,
+    "marketing_fee": 3112.54,
+    "platform_commission": 0.05,
+    "refund_amount": 622.51,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 433.52,
+    "marketing_fee": 21.68,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-14",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 417.44,
+    "marketing_fee": 20.87,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32018.61,
+    "marketing_fee": 3201.86,
+    "platform_commission": 0.05,
+    "refund_amount": 640.37,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 502.16,
+    "marketing_fee": 25.11,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-15",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 469.15,
+    "marketing_fee": 23.46,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 32891.61,
+    "marketing_fee": 3289.16,
+    "platform_commission": 0.05,
+    "refund_amount": 657.83,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 552.98,
+    "marketing_fee": 27.65,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-16",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 432.49,
+    "marketing_fee": 21.62,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_001",
+    "gmv": 31277.36,
+    "marketing_fee": 3127.74,
+    "platform_commission": 0.05,
+    "refund_amount": 625.55,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_cat_002",
+    "gmv": 462.82,
+    "marketing_fee": 23.14,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  },
+  {
+    "date": "2026-01-17",
+    "channel_id": "tmall_flagship",
+    "sku_id": "sku_toy_003",
+    "gmv": 569.22,
+    "marketing_fee": 28.46,
+    "platform_commission": 0.05,
+    "refund_amount": 0.0,
+    "order_status": "settled"
+  }
+]
